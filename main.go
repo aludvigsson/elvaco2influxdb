@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/influxdb/influxdb/client"
+	"github.com/influxdata/influxdb1-client/v2"
 	"github.com/ryanuber/columnize"
 	"github.com/tealeg/xlsx"
 )
